@@ -1,0 +1,12 @@
+Homework Questions From First Section
+
+1.  Write a function that lets a user input a list of 5 numbers and then calculate
+    the sum of those numbers.
+
+2.  Write a function that gets a list of 3 names and then goes through every name
+    in that list and if the length of the name is more than 5 letters, print a
+    message saying that the name is too long else the name length is just right!
+
+NOTE:   Instead of one big function to accomplish the task, see if you can break it
+        down into 2 smaller functions and have one function that uses both of them to
+        accomplish the task!
